@@ -9,6 +9,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ## 1. C# Basics
 
 ### 1.1 Introduction
+- [📘 Revision notes](C%23/1.1-introduction-notes.md)
 - [ ] What is C#
 - [ ] C# and .NET
 - [ ] CLR
