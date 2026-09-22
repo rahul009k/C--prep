@@ -62,7 +62,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.4 Operators</strong></summary>
 
-- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.3-operators-and-expressions-notes.md)
+- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.4-operators-and-expressions-notes.md)
 - [ ] Arithmetic operators
 - [ ] Comparison operators
 - [ ] Logical operators
