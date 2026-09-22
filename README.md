@@ -1,3 +1,4 @@
+
 # C# Complete Learning Roadmap
 
 A structured roadmap for learning and revising **C# itself** — from fundamentals to advanced language features, performance, internals, and interview preparation.
@@ -6,10 +7,14 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 1. C# Basics
+<details>
+<summary><strong>1. C# Basics</strong></summary>
 
-### 1.1 Introduction
-- [📘 Revision notes](C%23/1.1-introduction-notes.md)
+
+<details>
+<summary><strong>1.1 Introduction</strong></summary>
+
+- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.1-introduction-notes.md)
 - [ ] What is C#
 - [ ] C# and .NET
 - [ ] CLR
@@ -19,7 +24,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Namespaces
 - [ ] Comments
 
-### 1.2 Variables & Data Types
+</details>
+
+<details>
+<summary><strong>1.2 Variables & Data Types</strong></summary>
+
+- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.2-variables-and-data-types-notes.md)
 - [ ] Variables
 - [ ] Constants
 - [ ] Value types
@@ -31,7 +41,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Nullable types
 - [ ] `null`
 
-### 1.3 Type Conversion
+</details>
+
+<details>
+<summary><strong>1.3 Type Conversion</strong></summary>
+
 - [ ] Implicit conversion
 - [ ] Explicit conversion
 - [ ] Casting
@@ -41,7 +55,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `is`
 - [ ] `as`
 
-### 1.4 Operators
+</details>
+
+<details>
+<summary><strong>1.4 Operators</strong></summary>
+
+- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.3-operators-and-expressions-notes.md)
 - [ ] Arithmetic operators
 - [ ] Comparison operators
 - [ ] Logical operators
@@ -55,7 +74,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `typeof`
 - [ ] `sizeof`
 
-### 1.5 Control Flow
+</details>
+
+<details>
+<summary><strong>1.5 Control Flow</strong></summary>
+
 - [ ] `if`
 - [ ] `else`
 - [ ] `switch`
@@ -68,7 +91,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `continue`
 - [ ] `goto`
 
-### 1.6 Methods
+</details>
+
+<details>
+<summary><strong>1.6 Methods</strong></summary>
+
 - [ ] Method declaration
 - [ ] Parameters
 - [ ] Return values
@@ -84,9 +111,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 2. Object-Oriented Programming
+</details>
+</details>
+<details>
+<summary><strong>2. Object-Oriented Programming</strong></summary>
 
-### 2.1 Classes & Objects
+
+<details>
+<summary><strong>2.1 Classes & Objects</strong></summary>
+
 - [ ] Class
 - [ ] Object
 - [ ] Fields
@@ -99,7 +132,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `this`
 - [ ] `base`
 
-### 2.2 Encapsulation
+</details>
+
+<details>
+<summary><strong>2.2 Encapsulation</strong></summary>
+
 - [ ] Access modifiers
 - [ ] `public`
 - [ ] `private`
@@ -111,7 +148,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Getters/setters
 - [ ] `init`
 
-### 2.3 Inheritance
+</details>
+
+<details>
+<summary><strong>2.3 Inheritance</strong></summary>
+
 - [ ] Base class
 - [ ] Derived class
 - [ ] `virtual`
@@ -121,7 +162,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Sealed methods
 - [ ] Constructor inheritance
 
-### 2.4 Polymorphism
+</details>
+
+<details>
+<summary><strong>2.4 Polymorphism</strong></summary>
+
 - [ ] Compile-time polymorphism
 - [ ] Runtime polymorphism
 - [ ] Method overloading
@@ -129,7 +174,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Virtual dispatch
 - [ ] Base-class references
 
-### 2.5 Abstraction
+</details>
+
+<details>
+<summary><strong>2.5 Abstraction</strong></summary>
+
 - [ ] Abstract classes
 - [ ] Abstract methods
 - [ ] Interfaces
@@ -139,16 +188,26 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 3. Structs, Enums & Records
+</details>
+</details>
+<details>
+<summary><strong>3. Structs, Enums & Records</strong></summary>
 
-### 3.1 Structs
+
+<details>
+<summary><strong>3.1 Structs</strong></summary>
+
 - [ ] `struct`
 - [ ] Struct vs class
 - [ ] Value semantics
 - [ ] Readonly structs
 - [ ] `ref struct`
 
-### 3.2 Enums
+</details>
+
+<details>
+<summary><strong>3.2 Enums</strong></summary>
+
 - [ ] Enum declaration
 - [ ] Underlying types
 - [ ] Casting
@@ -157,7 +216,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `Enum.TryParse`
 - [ ] `[Flags]` enum
 
-### 3.3 Records
+</details>
+
+<details>
+<summary><strong>3.3 Records</strong></summary>
+
 - [ ] Record class
 - [ ] Record struct
 - [ ] Positional records
@@ -167,9 +230,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 4. Strings
+</details>
+</details>
+<details>
+<summary><strong>4. Strings</strong></summary>
 
-### 4.1 String Fundamentals
+
+<details>
+<summary><strong>4.1 String Fundamentals</strong></summary>
+
 - [ ] String
 - [ ] String immutability
 - [ ] String literals
@@ -178,7 +247,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Interpolated strings
 - [ ] Raw string literals
 
-### 4.2 String Operations
+</details>
+
+<details>
+<summary><strong>4.2 String Operations</strong></summary>
+
 - [ ] `Length`
 - [ ] `Contains`
 - [ ] `StartsWith`
@@ -192,7 +265,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `LastIndexOf`
 - [ ] String comparison
 
-### 4.3 StringBuilder
+</details>
+
+<details>
+<summary><strong>4.3 StringBuilder</strong></summary>
+
 - [ ] `StringBuilder`
 - [ ] `Append`
 - [ ] `AppendLine`
@@ -202,16 +279,26 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 5. Arrays & Collections
+</details>
+</details>
+<details>
+<summary><strong>5. Arrays & Collections</strong></summary>
 
-### 5.1 Arrays
+
+<details>
+<summary><strong>5.1 Arrays</strong></summary>
+
 - [ ] One-dimensional arrays
 - [ ] Multidimensional arrays
 - [ ] Jagged arrays
 - [ ] Array initialization
 - [ ] Array methods
 
-### 5.2 List
+</details>
+
+<details>
+<summary><strong>5.2 List</strong></summary>
+
 - [ ] `List<T>`
 - [ ] Add/remove
 - [ ] Insert
@@ -220,20 +307,32 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Sort
 - [ ] Capacity vs Count
 
-### 5.3 Dictionary
+</details>
+
+<details>
+<summary><strong>5.3 Dictionary</strong></summary>
+
 - [ ] `Dictionary<TKey,TValue>`
 - [ ] Keys and values
 - [ ] `TryGetValue`
 - [ ] `ContainsKey`
 - [ ] Dictionary performance
 
-### 5.4 Other Collections
+</details>
+
+<details>
+<summary><strong>5.4 Other Collections</strong></summary>
+
 - [ ] `HashSet<T>`
 - [ ] `Queue<T>`
 - [ ] `Stack<T>`
 - [ ] `LinkedList<T>`
 
-### 5.5 Collection Interfaces
+</details>
+
+<details>
+<summary><strong>5.5 Collection Interfaces</strong></summary>
+
 - [ ] `IEnumerable<T>`
 - [ ] `ICollection<T>`
 - [ ] `IList<T>`
@@ -243,9 +342,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 6. Generics
+</details>
+</details>
+<details>
+<summary><strong>6. Generics</strong></summary>
 
-### 6.1 Generic Basics
+
+<details>
+<summary><strong>6.1 Generic Basics</strong></summary>
+
 - [ ] Generic classes
 - [ ] Generic methods
 - [ ] Generic interfaces
@@ -253,7 +358,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Type parameters
 - [ ] Type inference
 
-### 6.2 Generic Constraints
+</details>
+
+<details>
+<summary><strong>6.2 Generic Constraints</strong></summary>
+
 - [ ] `where T : class`
 - [ ] `where T : struct`
 - [ ] `where T : new()`
@@ -261,7 +370,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Base-class constraints
 - [ ] Multiple constraints
 
-### 6.3 Variance
+</details>
+
+<details>
+<summary><strong>6.3 Variance</strong></summary>
+
 - [ ] Covariance
 - [ ] Contravariance
 - [ ] `in`
@@ -269,22 +382,36 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 7. Exception Handling
+</details>
+</details>
+<details>
+<summary><strong>7. Exception Handling</strong></summary>
 
-### 7.1 Exception Basics
+
+<details>
+<summary><strong>7.1 Exception Basics</strong></summary>
+
 - [ ] Exceptions
 - [ ] `try`
 - [ ] `catch`
 - [ ] `finally`
 - [ ] `throw`
 
-### 7.2 Exception Types
+</details>
+
+<details>
+<summary><strong>7.2 Exception Types</strong></summary>
+
 - [ ] Built-in exceptions
 - [ ] Exception hierarchy
 - [ ] Custom exceptions
 - [ ] Inner exceptions
 
-### 7.3 Advanced Exception Handling
+</details>
+
+<details>
+<summary><strong>7.3 Advanced Exception Handling</strong></summary>
+
 - [ ] Exception filters
 - [ ] `throw` vs `throw ex`
 - [ ] Multiple catch blocks
@@ -293,9 +420,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 8. Delegates
+</details>
+</details>
+<details>
+<summary><strong>8. Delegates</strong></summary>
 
-### 8.1 Delegate Basics
+
+<details>
+<summary><strong>8.1 Delegate Basics</strong></summary>
+
 - [ ] What is a delegate
 - [ ] Declaring delegates
 - [ ] Calling delegates
@@ -303,12 +436,20 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Returning delegates
 - [ ] Multicast delegates
 
-### 8.2 Built-in Delegates
+</details>
+
+<details>
+<summary><strong>8.2 Built-in Delegates</strong></summary>
+
 - [ ] `Action`
 - [ ] `Func`
 - [ ] `Predicate`
 
-### 8.3 Lambda Expressions
+</details>
+
+<details>
+<summary><strong>8.3 Lambda Expressions</strong></summary>
+
 - [ ] Lambda syntax
 - [ ] Expression lambda
 - [ ] Statement lambda
@@ -317,9 +458,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 9. Events
+</details>
+</details>
+<details>
+<summary><strong>9. Events</strong></summary>
 
-### 9.1 Events
+
+<details>
+<summary><strong>9.1 Events</strong></summary>
+
 - [ ] What is an event
 - [ ] Event declaration
 - [ ] Event publisher
@@ -327,16 +474,26 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `EventHandler`
 - [ ] Custom event arguments
 
-### 9.2 Events vs Delegates
+</details>
+
+<details>
+<summary><strong>9.2 Events vs Delegates</strong></summary>
+
 - [ ] Delegate vs event
 - [ ] Why events exist
 - [ ] Encapsulation of events
 
 ---
 
-## 10. LINQ
+</details>
+</details>
+<details>
+<summary><strong>10. LINQ</strong></summary>
 
-### 10.1 LINQ Fundamentals
+
+<details>
+<summary><strong>10.1 LINQ Fundamentals</strong></summary>
+
 - [ ] What is LINQ
 - [ ] Query syntax
 - [ ] Method syntax
@@ -344,21 +501,37 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Deferred execution
 - [ ] Immediate execution
 
-### 10.2 Filtering
+</details>
+
+<details>
+<summary><strong>10.2 Filtering</strong></summary>
+
 - [ ] `Where`
 - [ ] `OfType`
 
-### 10.3 Projection
+</details>
+
+<details>
+<summary><strong>10.3 Projection</strong></summary>
+
 - [ ] `Select`
 - [ ] `SelectMany`
 
-### 10.4 Sorting
+</details>
+
+<details>
+<summary><strong>10.4 Sorting</strong></summary>
+
 - [ ] `OrderBy`
 - [ ] `OrderByDescending`
 - [ ] `ThenBy`
 - [ ] `ThenByDescending`
 
-### 10.5 Aggregation
+</details>
+
+<details>
+<summary><strong>10.5 Aggregation</strong></summary>
+
 - [ ] `Count`
 - [ ] `LongCount`
 - [ ] `Sum`
@@ -367,7 +540,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `Max`
 - [ ] `Aggregate`
 
-### 10.6 Element Operators
+</details>
+
+<details>
+<summary><strong>10.6 Element Operators</strong></summary>
+
 - [ ] `First`
 - [ ] `FirstOrDefault`
 - [ ] `Single`
@@ -377,19 +554,31 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `ElementAt`
 - [ ] `ElementAtOrDefault`
 
-### 10.7 Set Operators
+</details>
+
+<details>
+<summary><strong>10.7 Set Operators</strong></summary>
+
 - [ ] `Distinct`
 - [ ] `Union`
 - [ ] `Intersect`
 - [ ] `Except`
 
-### 10.8 Grouping & Joining
+</details>
+
+<details>
+<summary><strong>10.8 Grouping & Joining</strong></summary>
+
 - [ ] `GroupBy`
 - [ ] `Join`
 - [ ] `GroupJoin`
 - [ ] `ToLookup`
 
-### 10.9 LINQ Internals
+</details>
+
+<details>
+<summary><strong>10.9 LINQ Internals</strong></summary>
+
 - [ ] `IEnumerable`
 - [ ] `IEnumerator`
 - [ ] Deferred execution
@@ -400,15 +589,25 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 11. Nullable Reference Types
+</details>
+</details>
+<details>
+<summary><strong>11. Nullable Reference Types</strong></summary>
 
-### 11.1 Nullable Concepts
+
+<details>
+<summary><strong>11.1 Nullable Concepts</strong></summary>
+
 - [ ] Nullable value types
 - [ ] Nullable reference types
 - [ ] `?`
 - [ ] `null`
 
-### 11.2 Null Handling
+</details>
+
+<details>
+<summary><strong>11.2 Null Handling</strong></summary>
+
 - [ ] Null checks
 - [ ] `??`
 - [ ] `??=`
@@ -416,16 +615,26 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `!`
 - [ ] Pattern matching with null
 
-### 11.3 Nullable Analysis
+</details>
+
+<details>
+<summary><strong>11.3 Nullable Analysis</strong></summary>
+
 - [ ] Compiler nullable warnings
 - [ ] Nullable annotations
 - [ ] Null-state analysis
 
 ---
 
-## 12. Memory Management
+</details>
+</details>
+<details>
+<summary><strong>12. Memory Management</strong></summary>
 
-### 12.1 Memory Fundamentals
+
+<details>
+<summary><strong>12.1 Memory Fundamentals</strong></summary>
+
 - [ ] Stack
 - [ ] Heap
 - [ ] Value types
@@ -433,7 +642,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Boxing
 - [ ] Unboxing
 
-### 12.2 Garbage Collection
+</details>
+
+<details>
+<summary><strong>12.2 Garbage Collection</strong></summary>
+
 - [ ] GC
 - [ ] Managed memory
 - [ ] Generations
@@ -443,7 +656,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Large Object Heap
 - [ ] Finalization
 
-### 12.3 IDisposable
+</details>
+
+<details>
+<summary><strong>12.3 IDisposable</strong></summary>
+
 - [ ] `IDisposable`
 - [ ] `Dispose`
 - [ ] `using`
@@ -453,27 +670,45 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 13. Async Programming
+</details>
+</details>
+<details>
+<summary><strong>13. Async Programming</strong></summary>
 
-### 13.1 Task-Based Programming
+
+<details>
+<summary><strong>13.1 Task-Based Programming</strong></summary>
+
 - [ ] `Task`
 - [ ] `Task<T>`
 - [ ] `async`
 - [ ] `await`
 - [ ] Async methods
 
-### 13.2 Task Operations
+</details>
+
+<details>
+<summary><strong>13.2 Task Operations</strong></summary>
+
 - [ ] `Task.WhenAll`
 - [ ] `Task.WhenAny`
 - [ ] `Task.Delay`
 - [ ] `Task.Run`
 
-### 13.3 Cancellation
+</details>
+
+<details>
+<summary><strong>13.3 Cancellation</strong></summary>
+
 - [ ] `CancellationToken`
 - [ ] `CancellationTokenSource`
 - [ ] Cancellation patterns
 
-### 13.4 Common Problems
+</details>
+
+<details>
+<summary><strong>13.4 Common Problems</strong></summary>
+
 - [ ] `.Result`
 - [ ] `.Wait()`
 - [ ] Deadlocks
@@ -483,14 +718,24 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 14. Multithreading & Concurrency
+</details>
+</details>
+<details>
+<summary><strong>14. Multithreading & Concurrency</strong></summary>
 
-### 14.1 Threads
+
+<details>
+<summary><strong>14.1 Threads</strong></summary>
+
 - [ ] `Thread`
 - [ ] ThreadPool
 - [ ] Tasks vs Threads
 
-### 14.2 Synchronization
+</details>
+
+<details>
+<summary><strong>14.2 Synchronization</strong></summary>
+
 - [ ] `lock`
 - [ ] `Monitor`
 - [ ] `Mutex`
@@ -498,13 +743,21 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `SemaphoreSlim`
 - [ ] `Interlocked`
 
-### 14.3 Thread-Safe Collections
+</details>
+
+<details>
+<summary><strong>14.3 Thread-Safe Collections</strong></summary>
+
 - [ ] `ConcurrentDictionary`
 - [ ] `ConcurrentQueue`
 - [ ] `ConcurrentBag`
 - [ ] `ConcurrentStack`
 
-### 14.4 Concurrency Problems
+</details>
+
+<details>
+<summary><strong>14.4 Concurrency Problems</strong></summary>
+
 - [ ] Race conditions
 - [ ] Deadlocks
 - [ ] Thread safety
@@ -512,90 +765,156 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 15. Iterators
+</details>
+</details>
+<details>
+<summary><strong>15. Iterators</strong></summary>
 
-### 15.1 Iterator Fundamentals
+
+<details>
+<summary><strong>15.1 Iterator Fundamentals</strong></summary>
+
 - [ ] `IEnumerable`
 - [ ] `IEnumerator`
 - [ ] `yield return`
 - [ ] `yield break`
 
-### 15.2 Deferred Iteration
+</details>
+
+<details>
+<summary><strong>15.2 Deferred Iteration</strong></summary>
+
 - [ ] Lazy execution
 - [ ] Iterator state
 - [ ] Iterator performance
 
 ---
 
-## 16. Pattern Matching
+</details>
+</details>
+<details>
+<summary><strong>16. Pattern Matching</strong></summary>
 
-### 16.1 Type Patterns
+
+<details>
+<summary><strong>16.1 Type Patterns</strong></summary>
+
 - [ ] `is`
 - [ ] Type pattern
 - [ ] Declaration pattern
 
-### 16.2 Property Patterns
+</details>
+
+<details>
+<summary><strong>16.2 Property Patterns</strong></summary>
+
 - [ ] Property pattern
 - [ ] Nested property pattern
 
-### 16.3 Relational Patterns
+</details>
+
+<details>
+<summary><strong>16.3 Relational Patterns</strong></summary>
+
 - [ ] `<`
 - [ ] `>`
 - [ ] `<=`
 - [ ] `>=`
 
-### 16.4 Logical Patterns
+</details>
+
+<details>
+<summary><strong>16.4 Logical Patterns</strong></summary>
+
 - [ ] `and`
 - [ ] `or`
 - [ ] `not`
 
-### 16.5 List Patterns
+</details>
+
+<details>
+<summary><strong>16.5 List Patterns</strong></summary>
+
 - [ ] List patterns
 - [ ] Slice patterns
 
-### 16.6 Switch Expressions
+</details>
+
+<details>
+<summary><strong>16.6 Switch Expressions</strong></summary>
+
 - [ ] Switch expressions
 - [ ] Exhaustiveness
 - [ ] Pattern-based switching
 
 ---
 
-## 17. Tuples & Deconstruction
+</details>
+</details>
+<details>
+<summary><strong>17. Tuples & Deconstruction</strong></summary>
 
-### 17.1 Tuples
+
+<details>
+<summary><strong>17.1 Tuples</strong></summary>
+
 - [ ] ValueTuple
 - [ ] Named tuples
 - [ ] Tuple return values
 
-### 17.2 Deconstruction
+</details>
+
+<details>
+<summary><strong>17.2 Deconstruction</strong></summary>
+
 - [ ] Tuple deconstruction
 - [ ] Object deconstruction
 - [ ] Custom `Deconstruct`
 
 ---
 
-## 18. Extension Methods
+</details>
+</details>
+<details>
+<summary><strong>18. Extension Methods</strong></summary>
 
-### 18.1 Extension Methods
+
+<details>
+<summary><strong>18.1 Extension Methods</strong></summary>
+
 - [ ] Creating extension methods
 - [ ] `this` parameter
 - [ ] Extension method rules
 - [ ] Extension method resolution
 
-### 18.2 Practical Usage
+</details>
+
+<details>
+<summary><strong>18.2 Practical Usage</strong></summary>
+
 - [ ] LINQ-style extensions
 - [ ] Fluent APIs
 
 ---
 
-## 19. Anonymous Types & Object Initialization
+</details>
+</details>
+<details>
+<summary><strong>19. Anonymous Types & Object Initialization</strong></summary>
 
-### 19.1 Anonymous Types
+
+<details>
+<summary><strong>19.1 Anonymous Types</strong></summary>
+
 - [ ] Anonymous objects
 - [ ] Read-only properties
 - [ ] `var`
 
-### 19.2 Initializers
+</details>
+
+<details>
+<summary><strong>19.2 Initializers</strong></summary>
+
 - [ ] Object initializer
 - [ ] Collection initializer
 - [ ] Index initializers
@@ -603,9 +922,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 20. Reflection
+</details>
+</details>
+<details>
+<summary><strong>20. Reflection</strong></summary>
 
-### 20.1 Reflection Basics
+
+<details>
+<summary><strong>20.1 Reflection Basics</strong></summary>
+
 - [ ] `Type`
 - [ ] `typeof`
 - [ ] `GetType`
@@ -615,7 +940,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Properties
 - [ ] Fields
 
-### 20.2 Dynamic Reflection
+</details>
+
+<details>
+<summary><strong>20.2 Dynamic Reflection</strong></summary>
+
 - [ ] Creating objects
 - [ ] Invoking methods
 - [ ] Reading properties
@@ -623,15 +952,25 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 21. Attributes
+</details>
+</details>
+<details>
+<summary><strong>21. Attributes</strong></summary>
 
-### 21.1 Built-in Attributes
+
+<details>
+<summary><strong>21.1 Built-in Attributes</strong></summary>
+
 - [ ] `[Obsolete]`
 - [ ] `[Serializable]`
 - [ ] `[Flags]`
 - [ ] `[CallerMemberName]`
 
-### 21.2 Custom Attributes
+</details>
+
+<details>
+<summary><strong>21.2 Custom Attributes</strong></summary>
+
 - [ ] Creating attributes
 - [ ] Attribute parameters
 - [ ] Reading attributes
@@ -639,50 +978,84 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 22. Expression Trees
+</details>
+</details>
+<details>
+<summary><strong>22. Expression Trees</strong></summary>
 
-### 22.1 Basics
+
+<details>
+<summary><strong>22.1 Basics</strong></summary>
+
 - [ ] Expression trees
 - [ ] `Expression<TDelegate>`
 - [ ] Lambda vs expression tree
 
-### 22.2 Building Expressions
+</details>
+
+<details>
+<summary><strong>22.2 Building Expressions</strong></summary>
+
 - [ ] Expression parameters
 - [ ] Expression properties
 - [ ] Expression calls
 - [ ] Expression composition
 
-### 22.3 Practical Usage
+</details>
+
+<details>
+<summary><strong>22.3 Practical Usage</strong></summary>
+
 - [ ] Dynamic queries
 - [ ] LINQ providers
 - [ ] Runtime query construction
 
 ---
 
-## 23. Equality & Comparison
+</details>
+</details>
+<details>
+<summary><strong>23. Equality & Comparison</strong></summary>
 
-### 23.1 Equality
+
+<details>
+<summary><strong>23.1 Equality</strong></summary>
+
 - [ ] `==`
 - [ ] `Equals`
 - [ ] `ReferenceEquals`
 - [ ] Value equality
 - [ ] Reference equality
 
-### 23.2 Equality Contracts
+</details>
+
+<details>
+<summary><strong>23.2 Equality Contracts</strong></summary>
+
 - [ ] `IEquatable<T>`
 - [ ] `GetHashCode`
 - [ ] Overriding equality
 
-### 23.3 Comparison
+</details>
+
+<details>
+<summary><strong>23.3 Comparison</strong></summary>
+
 - [ ] `IComparable<T>`
 - [ ] `IComparer<T>`
 - [ ] Custom sorting
 
 ---
 
-## 24. Modern C#
+</details>
+</details>
+<details>
+<summary><strong>24. Modern C#</strong></summary>
 
-### 24.1 Modern Syntax
+
+<details>
+<summary><strong>24.1 Modern Syntax</strong></summary>
+
 - [ ] File-scoped namespaces
 - [ ] Global using
 - [ ] Target-typed `new`
@@ -692,7 +1065,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Collection expressions
 - [ ] Primary constructors
 
-### 24.2 Modern Type Features
+</details>
+
+<details>
+<summary><strong>24.2 Modern Type Features</strong></summary>
+
 - [ ] Records
 - [ ] Record structs
 - [ ] `with`
@@ -701,22 +1078,36 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 25. Advanced Memory & Performance
+</details>
+</details>
+<details>
+<summary><strong>25. Advanced Memory & Performance</strong></summary>
 
-### 25.1 Stack-Based Memory
+
+<details>
+<summary><strong>25.1 Stack-Based Memory</strong></summary>
+
 - [ ] `Span<T>`
 - [ ] `ReadOnlySpan<T>`
 - [ ] `Memory<T>`
 - [ ] `ReadOnlyMemory<T>`
 
-### 25.2 Allocation Optimization
+</details>
+
+<details>
+<summary><strong>25.2 Allocation Optimization</strong></summary>
+
 - [ ] Boxing avoidance
 - [ ] `ArrayPool<T>`
 - [ ] `ValueTask`
 - [ ] Struct performance
 - [ ] String allocations
 
-### 25.3 Performance Concepts
+</details>
+
+<details>
+<summary><strong>25.3 Performance Concepts</strong></summary>
+
 - [ ] Allocation
 - [ ] GC pressure
 - [ ] CPU-bound work
@@ -725,15 +1116,25 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 26. Unsafe C#
+</details>
+</details>
+<details>
+<summary><strong>26. Unsafe C#</strong></summary>
 
-### 26.1 Unsafe Basics
+
+<details>
+<summary><strong>26.1 Unsafe Basics</strong></summary>
+
 - [ ] `unsafe`
 - [ ] Pointers
 - [ ] Pointer arithmetic
 - [ ] `fixed`
 
-### 26.2 Interop
+</details>
+
+<details>
+<summary><strong>26.2 Interop</strong></summary>
+
 - [ ] Managed vs unmanaged code
 - [ ] P/Invoke
 - [ ] `Marshal`
@@ -742,9 +1143,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 27. C# Compilation & Internals
+</details>
+</details>
+<details>
+<summary><strong>27. C# Compilation & Internals</strong></summary>
 
-### 27.1 Compilation
+
+<details>
+<summary><strong>27.1 Compilation</strong></summary>
+
 - [ ] Source code
 - [ ] Roslyn compiler
 - [ ] IL
@@ -752,23 +1159,37 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] JIT
 - [ ] Native machine code
 
-### 27.2 Runtime
+</details>
+
+<details>
+<summary><strong>27.2 Runtime</strong></summary>
+
 - [ ] CLR
 - [ ] Metadata
 - [ ] Assemblies
 - [ ] Type system
 - [ ] Garbage collection
 
-### 27.3 Async Internals
+</details>
+
+<details>
+<summary><strong>27.3 Async Internals</strong></summary>
+
 - [ ] State machines
 - [ ] `async` transformation
 - [ ] `await` internals
 
 ---
 
-## 28. C# Coding Practices
+</details>
+</details>
+<details>
+<summary><strong>28. C# Coding Practices</strong></summary>
 
-### 28.1 Clean C# Code
+
+<details>
+<summary><strong>28.1 Clean C# Code</strong></summary>
+
 - [ ] Naming conventions
 - [ ] Method design
 - [ ] Class design
@@ -777,7 +1198,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Null handling
 - [ ] Avoiding duplication
 
-### 28.2 Common Mistakes
+</details>
+
+<details>
+<summary><strong>28.2 Common Mistakes</strong></summary>
+
 - [ ] Overusing `var`
 - [ ] Misusing `dynamic`
 - [ ] Blocking async code
@@ -786,7 +1211,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Incorrect exception handling
 - [ ] Mutable shared state
 
-### 28.3 C# Design Principles
+</details>
+
+<details>
+<summary><strong>28.3 C# Design Principles</strong></summary>
+
 - [ ] SOLID principles
 - [ ] Composition over inheritance
 - [ ] Encapsulation
@@ -795,23 +1224,37 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 29. Design Patterns in C#
+</details>
+</details>
+<details>
+<summary><strong>29. Design Patterns in C#</strong></summary>
 
-### 29.1 Creational
+
+<details>
+<summary><strong>29.1 Creational</strong></summary>
+
 - [ ] Singleton
 - [ ] Factory
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
 
-### 29.2 Structural
+</details>
+
+<details>
+<summary><strong>29.2 Structural</strong></summary>
+
 - [ ] Adapter
 - [ ] Decorator
 - [ ] Facade
 - [ ] Proxy
 - [ ] Composite
 
-### 29.3 Behavioral
+</details>
+
+<details>
+<summary><strong>29.3 Behavioral</strong></summary>
+
 - [ ] Strategy
 - [ ] Observer
 - [ ] Command
@@ -822,9 +1265,15 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 
 ---
 
-## 30. C# Interview Preparation
+</details>
+</details>
+<details>
+<summary><strong>30. C# Interview Preparation</strong></summary>
 
-### 30.1 Fundamentals
+
+<details>
+<summary><strong>30.1 Fundamentals</strong></summary>
+
 - [ ] Value vs reference type
 - [ ] Stack vs heap
 - [ ] `var` vs `dynamic`
@@ -833,7 +1282,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Class vs struct
 - [ ] Boxing/unboxing
 
-### 30.2 OOP
+</details>
+
+<details>
+<summary><strong>30.2 OOP</strong></summary>
+
 - [ ] Encapsulation
 - [ ] Inheritance
 - [ ] Abstraction
@@ -841,14 +1294,22 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Abstract class vs interface
 - [ ] Overloading vs overriding
 
-### 30.3 Collections
+</details>
+
+<details>
+<summary><strong>30.3 Collections</strong></summary>
+
 - [ ] Array vs List
 - [ ] List vs LinkedList
 - [ ] Dictionary internals
 - [ ] HashSet
 - [ ] IEnumerable
 
-### 30.4 LINQ
+</details>
+
+<details>
+<summary><strong>30.4 LINQ</strong></summary>
+
 - [ ] Deferred execution
 - [ ] `IEnumerable` vs `IQueryable`
 - [ ] `First` vs `Single`
@@ -856,7 +1317,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `GroupBy`
 - [ ] Joins
 
-### 30.5 Async
+</details>
+
+<details>
+<summary><strong>30.5 Async</strong></summary>
+
 - [ ] `async/await`
 - [ ] Task
 - [ ] Thread vs Task
@@ -865,7 +1330,11 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] `CancellationToken`
 - [ ] Deadlocks
 
-### 30.6 Advanced
+</details>
+
+<details>
+<summary><strong>30.6 Advanced</strong></summary>
+
 - [ ] Delegates
 - [ ] Events
 - [ ] Generics
@@ -877,6 +1346,9 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 - [ ] Records
 
 ---
+
+</details>
+</details>
 
 # Recommended Learning Order
 
@@ -917,6 +1389,7 @@ Phase 30 → Interview Preparation
 
 ---
 
+
 # Priority Guide
 
 | Priority | Topics |
@@ -933,6 +1406,7 @@ Phase 30 → Interview Preparation
 | 🟡 Important for Interviews | SOLID, Design Patterns |
 
 ---
+
 
 # How to Study Each Topic
 
@@ -956,6 +1430,7 @@ Use this sequence:
 The goal is to be able to **write the code, explain the code, debug the code, and explain why you chose that approach**.
 
 ---
+
 
 # C# Mastery Checklist
 
