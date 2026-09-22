@@ -16,7 +16,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.1 Introduction</strong></summary>
 
-- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.1-introduction-notes.md)
+- [📘 Revision notes](C%23/1.1-introduction-notes.md)
 - [ ] What is C#
 - [ ] C# and .NET
 - [ ] CLR
@@ -31,7 +31,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.2 Variables & Data Types</strong></summary>
 
-- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.2-variables-and-data-types-notes.md)
+- [📘 Revision notes](C%23/1.2-variables-and-data-types-notes.md)
 - [ ] Variables
 - [ ] Constants
 - [ ] Value types
@@ -48,6 +48,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.3 Type Conversion</strong></summary>
 
+- [📘 Revision notes](C%23/1.3-type-conversion-notes.md)
 - [ ] Implicit conversion
 - [ ] Explicit conversion
 - [ ] Casting
@@ -62,7 +63,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.4 Operators</strong></summary>
 
-- [📘 Revision notes](https://github.com/rahul009k/C--prep/blob/main/C%23/1.4-operators-and-expressions-notes.md)
+- [📘 Revision notes](C%23/1.4-operators-and-expressions-notes.md)
 - [ ] Arithmetic operators
 - [ ] Comparison operators
 - [ ] Logical operators
