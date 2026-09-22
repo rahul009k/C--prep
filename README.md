@@ -10,6 +10,8 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1. C# Basics</strong></summary>
 
+<blockquote>
+
 
 <details>
 <summary><strong>1.1 Introduction</strong></summary>
@@ -112,9 +114,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>2. Object-Oriented Programming</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -189,9 +194,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>3. Structs, Enums & Records</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -231,9 +239,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>4. Strings</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -280,9 +291,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>5. Arrays & Collections</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -343,9 +357,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>6. Generics</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -383,9 +400,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>7. Exception Handling</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -421,9 +441,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>8. Delegates</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -459,9 +482,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>9. Events</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -486,9 +512,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>10. LINQ</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -590,9 +619,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>11. Nullable Reference Types</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -627,9 +659,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>12. Memory Management</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -671,9 +706,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>13. Async Programming</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -719,9 +757,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>14. Multithreading & Concurrency</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -766,9 +807,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>15. Iterators</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -791,9 +835,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>16. Pattern Matching</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -850,9 +897,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>17. Tuples & Deconstruction</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -874,9 +924,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>18. Extension Methods</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -898,9 +951,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>19. Anonymous Types & Object Initialization</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -923,9 +979,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>20. Reflection</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -953,9 +1012,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>21. Attributes</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -979,9 +1041,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>22. Expression Trees</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1013,9 +1078,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>23. Equality & Comparison</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1048,9 +1116,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>24. Modern C#</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1079,9 +1150,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>25. Advanced Memory & Performance</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1117,9 +1191,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>26. Unsafe C#</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1144,9 +1221,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>27. C# Compilation & Internals</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1182,9 +1262,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>28. C# Coding Practices</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1225,9 +1308,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>29. Design Patterns in C#</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1266,9 +1352,12 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 <details>
 <summary><strong>30. C# Interview Preparation</strong></summary>
+
+<blockquote>
 
 
 <details>
@@ -1348,6 +1437,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 ---
 
 </details>
+</blockquote>
 </details>
 
 # Recommended Learning Order
