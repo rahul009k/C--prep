@@ -82,6 +82,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.5 Control Flow</strong></summary>
 
+- [📘 Revision notes](C%23/1.5-control-flow-notes.md)
 - [ ] `if`
 - [ ] `else`
 - [ ] `switch`
