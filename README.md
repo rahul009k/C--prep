@@ -128,6 +128,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>2.1 Classes & Objects</strong></summary>
 
+- [📘 Revision notes](C%23/2.1-classes-and-objects-notes.md)
 - [ ] Class
 - [ ] Object
 - [ ] Fields
