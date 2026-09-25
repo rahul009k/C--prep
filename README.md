@@ -163,6 +163,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>2.3 Inheritance</strong></summary>
 
+- [📘 Revision notes](C%23/2.3-inheritance-notes.md)
 - [ ] Base class
 - [ ] Derived class
 - [ ] `virtual`
