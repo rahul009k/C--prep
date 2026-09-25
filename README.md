@@ -100,6 +100,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>1.6 Methods</strong></summary>
 
+- [📘 Revision notes](C%23/1.6-methods-notes.md)
 - [ ] Method declaration
 - [ ] Parameters
 - [ ] Return values
