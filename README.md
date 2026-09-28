@@ -191,6 +191,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>2.5 Abstraction</strong></summary>
 
+- [📘 Revision notes](C%23/2.5-abstraction-notes.md)
 - [ ] Abstract classes
 - [ ] Abstract methods
 - [ ] Interfaces
