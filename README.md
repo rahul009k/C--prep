@@ -213,6 +213,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>3.1 Structs</strong></summary>
 
+- [📘 Revision notes](C%23/3.1-structs-notes.md)
 - [ ] `struct`
 - [ ] Struct vs class
 - [ ] Value semantics
@@ -224,6 +225,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>3.2 Enums</strong></summary>
 
+- [📘 Revision notes](C%23/3.2-enums-notes.md)
 - [ ] Enum declaration
 - [ ] Underlying types
 - [ ] Casting
