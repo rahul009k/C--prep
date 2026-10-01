@@ -275,6 +275,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>4.2 String Operations</strong></summary>
 
+- [📘 Revision notes](C%23/4.2-string-operations-notes.md)
 - [ ] `Length`
 - [ ] `Contains`
 - [ ] `StartsWith`
@@ -293,6 +294,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>4.3 StringBuilder</strong></summary>
 
+- [📘 Revision notes](C%23/4.3-stringbuilder-notes.md)
 - [ ] `StringBuilder`
 - [ ] `Append`
 - [ ] `AppendLine`
