@@ -239,6 +239,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>3.3 Records</strong></summary>
 
+- [📘 Revision notes](C%23/3.3-records-notes.md)
 - [ ] Record class
 - [ ] Record struct
 - [ ] Positional records
@@ -260,6 +261,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>4.1 String Fundamentals</strong></summary>
 
+- [📘 Revision notes](C%23/4.1-string-fundamentals-notes.md)
 - [ ] String
 - [ ] String immutability
 - [ ] String literals
