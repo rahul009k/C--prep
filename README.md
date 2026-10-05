@@ -316,6 +316,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>5.1 Arrays</strong></summary>
 
+- [📘 Revision notes](C%23/5.1-arrays-notes.md)
 - [ ] One-dimensional arrays
 - [ ] Multidimensional arrays
 - [ ] Jagged arrays
