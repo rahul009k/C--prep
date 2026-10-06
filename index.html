@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>C# Mastery — Learning Hub</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css" id="hljs-theme" />
+</head>
+<body>
+
+  <!-- Mobile overlay -->
+  <div class="overlay" id="overlay"></div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">C# Mastery</span>
+      </div>
+      <button class="close-sidebar" id="closeSidebar">✕</button>
+    </div>
+
+    <div class="search-wrap">
+      <input type="text" id="searchInput" placeholder="🔍 Search topics..." autocomplete="off" />
+    </div>
+
+    <div class="progress-bar-wrap">
+      <div class="progress-label">
+        <span>Progress</span>
+        <span id="progressText">0 / 19</span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </div>
+
+    <nav class="nav" id="nav"></nav>
+  </aside>
+
+  <!-- Main -->
+  <div class="layout">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn">☰</button>
+      <div class="breadcrumb" id="breadcrumb">Home</div>
+      <div class="topbar-actions">
+        <button class="icon-btn" id="themeToggle" title="Toggle theme">🌙</button>
+        <button class="icon-btn" id="homeBtn" title="Home">🏠</button>
+      </div>
+    </header>
+
+    <main class="content" id="content">
+      <div class="home-screen" id="homeScreen">
+        <div class="hero">
+          <div class="hero-badge">30 Phases · 76 Topics</div>
+          <h1>C# Mastery Hub</h1>
+          <p>Your personal, structured C# learning companion. Read anywhere, track progress, master everything.</p>
+          <div class="hero-actions">
+            <button class="btn-primary" id="startBtn">Start Learning →</button>
+            <button class="btn-ghost" id="roadmapBtn">View Roadmap</button>
+          </div>
+        </div>
+
+        <div class="phase-grid" id="phaseGrid"></div>
+
+        <div class="priority-section">
+          <h2>Priority Guide</h2>
+          <div class="priority-cards">
+            <div class="priority-card red">
+              <span class="p-dot">🔴</span>
+              <div>
+                <strong>Must Master</strong>
+                <p>Basics · OOP · Collections · Generics · Exceptions · Delegates · LINQ · Async</p>
+              </div>
+            </div>
+            <div class="priority-card orange">
+              <span class="p-dot">🟠</span>
+              <div>
+                <strong>Strong Knowledge</strong>
+                <p>Records · Pattern Matching · Iterators · Equality · Reflection · Attributes</p>
+              </div>
+            </div>
+            <div class="priority-card yellow">
+              <span class="p-dot">🟡</span>
+              <div>
+                <strong>Advanced</strong>
+                <p>Span · Memory · ArrayPool · ValueTask · Unsafe · P/Invoke · Design Patterns</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="note-screen hidden" id="noteScreen">
+        <div class="note-toolbar">
+          <button class="btn-ghost small" id="prevNote">← Prev</button>
+          <div class="note-status" id="noteStatus"></div>
+          <button class="btn-ghost small" id="nextNote">Next →</button>
+        </div>
+        <article class="markdown-body" id="markdownBody"></article>
+        <div class="note-footer">
+          <button class="btn-primary" id="markDone">✓ Mark as Done</button>
+          <button class="btn-ghost" id="markDoneNext">✓ Done & Next →</button>
+        </div>
+      </div>
+
+      <div class="roadmap-screen hidden" id="roadmapScreen">
+        <article class="markdown-body" id="roadmapBody"></article>
+      </div>
+    </main>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

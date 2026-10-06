@@ -328,6 +328,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>5.2 List</strong></summary>
 
+- [📘 Revision notes](C%23/5.2-list-notes.md)
 - [ ] `List<T>`
 - [ ] Add/remove
 - [ ] Insert
