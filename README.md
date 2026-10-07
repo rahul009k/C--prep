@@ -342,6 +342,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>5.3 Dictionary</strong></summary>
 
+- [📘 Revision notes](C%23/5.3-dictionary-notes.md)
 - [ ] `Dictionary<TKey,TValue>`
 - [ ] Keys and values
 - [ ] `TryGetValue`
