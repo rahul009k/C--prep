@@ -354,6 +354,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>5.4 Other Collections</strong></summary>
 
+- [📘 Revision notes](C%23/5.4-other-collections-notes.md)
 - [ ] `HashSet<T>`
 - [ ] `Queue<T>`
 - [ ] `Stack<T>`
