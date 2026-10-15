@@ -365,6 +365,7 @@ A structured roadmap for learning and revising **C# itself** — from fundamenta
 <details>
 <summary><strong>5.5 Collection Interfaces</strong></summary>
 
+- [📘 Revision notes](C%23/5.5-collection-interfaces-notes.md)
 - [ ] `IEnumerable<T>`
 - [ ] `ICollection<T>`
 - [ ] `IList<T>`
